@@ -8,6 +8,7 @@ Buning uchun /help buyrug'ini yuborib To'liq ma'lumot bilib oling.
 
 💻Dasturchi: @FROSTMEN2478
 📡Kanallarimiz @XONGARX_MUSIC 
+$API_KEY = '1131017853:AAEN2aDjLVx66nTeez7WuR0xn9DN-hPRDP4'
     RENAME_403_ERR = "Kechirasiz. Sizga ushbu faylning nomini o'zgartirish huquqi berilmagan."
     ABS_TEXT = " Iltimos, xudbin bo'lmang."
     UPGRADE_TEXT = "<b>👉 /help buyrug'ini yuboring </b>"
