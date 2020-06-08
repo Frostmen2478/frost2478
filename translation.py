@@ -6,8 +6,8 @@ class Translation(object):
 📹YouTube dan ham Vedio Yuklab berishimiz mumkin
 Buning uchun /help buyrug'ini yuborib To'liq ma'lumot bilib oling.
 
-💻Dasturchi: @RedFoc
-📡Kanallarimiz @PHP_Secrets , @app_Telegraph_Uzbek , @EHMUZ"""
+💻Dasturchi: @FROSTMEN2478
+📡Kanallarimiz @XONGARX_MUSIC 
     RENAME_403_ERR = "Kechirasiz. Sizga ushbu faylning nomini o'zgartirish huquqi berilmagan."
     ABS_TEXT = " Iltimos, xudbin bo'lmang."
     UPGRADE_TEXT = "<b>👉 /help buyrug'ini yuboring </b>"
@@ -36,7 +36,7 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Plan nomi: Bepul
 Muddati tugaydi: 31/12/2020"""
-    HELP_USER = """Salom, Men URL ni yuklash botiman ..
+    HELP_USER = """Salom, Men URL ni yuklash botiman siz men orqali telegramdan chiqmagan xolda youtube dan video yuklab olishingiz mumkin 
     
 1. URL manzilini yuboring (Link|Kengaytmali yangi nom).
 2. Boshqa eskizni yuborish (ixtiyoriy).
@@ -50,8 +50,8 @@ Muddati tugaydi: 31/12/2020"""
 
 --------
 
-💻Dasturchi: @RedFoc
-📡Kanallarimiz @PHP_Secrets , @app_Telegraph_Uzbek , @EHMUZ"""
+💻Dasturchi: @FROSTMEN2478
+📡Kanallarimiz @XONGARX_MUSIC """
     REPLY_TO_DOC_GET_LINK = "Yuqori tezlikda to'g'ridan-to'g'ri yuklab olish havolasini olish uchun Telegram media-ga javob bering"
     REPLY_TO_DOC_FOR_C2V = "O'zgartirish uchun Telegram media-ga javob bering"
     REPLY_TO_DOC_FOR_SCSS = "Skrinshotlarni olish uchun Telegram media-ga javob bering"
@@ -75,7 +75,7 @@ Muddati tugaydi: 31/12/2020"""
     EXTRACT_ZIP_STEP_TWO = """Quyidagi variantlardan yuklash uchun fayl_nomini tanlang.
 Faylni olgandan so'ng, uni kichik rasmlarni qo'llab-quvvatlash bilan qayta nomlash uchun siz /rename buyrug'idan foydalanishingiz mumkin."""
     CANCEL_STR = "Jarayon bekor qilindi"
-    ZIP_UPLOADED_STR = "{} Fayllarni {} sekund ichida yukladi"
+    ZIP_UPLOADED_STR = "{100-500} Fayllarni {tahminan 100-500} sekund ichida yukladi"
     FREE_USER_LIMIT_Q_SZE = """Qayta ishlash mumkin emas.
 Bepul foydalanuvchilar 30 daqiqada atigi bitta so'rov.
 /upgrade yoki 1800 soniyadan keyin harakat qilib ko'ring."""
